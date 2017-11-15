@@ -2,7 +2,7 @@
 
 这是一个博客?日更?周更?月更?NO Way
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I'm a IOS Developer and IOS Reverse Developer
 
 ### Markdown
 
