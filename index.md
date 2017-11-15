@@ -9,19 +9,7 @@ I'm a IOS Developer and IOS Reverse Developer
 本博客仅用于开源技术分享对我有兴趣的请去我的新浪微博@我吧
 
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
+ios微信插件 URL:http://www.jianshu.com/p/49d445576685?utm_campaign=hugo&utm_medium=reader_share&utm_content=note&utm_source=weixin-friends
 
 [Link](url) and ![Image](src)
 ```
