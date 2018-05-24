@@ -9,12 +9,7 @@ I'm a IOS Developer and IOS Reverse Developer
 本博客仅用于开源技术分享有兴趣的话可以去Twitter@我呀
 
 ```markdown
-URL:[http://www.jianshu.com/p/49d445576685?utm_campaign=hugo&utm_medium=reader_share&utm_content=note&utm_source=weixin-friends];
-
-
-
-
-
+URL:[http://www.jianshu.com/p/49d445576685?utm_campaign=hugo&utm_medium=reader_share&utm_content=note&utm_source=weixin-friends]
 嘿嘿这个月提前了几天的summary 没啥就想吐槽下 被算法搞死的一个月😐天天围绕算法和高等数学转圈抑郁和暴躁指数达到五颗🌟睡眠质量直线下跌.
 终于你能努力的像个人,有天想着想着算法bong的一声睡在电脑桌上,是啊现在不加油怎么去面对三年后的大考.
 没什么愿望没什么可想的无欲无求 这个月好像也没meimei买啥… 只想现在的自己能对得起三年后的自己 .
