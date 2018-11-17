@@ -48,3 +48,11 @@ URL:[http://www.jianshu.com/p/49d445576685?utm_campaign=hugo&utm_medium=reader_s
 只差一个结尾 不想从头再来.
 
 ```
+
+### 2018.11.17记
+```markdown
+考证加油 高数加油 英文加油 不要挂科就好 
+嗯
+
+```
+
