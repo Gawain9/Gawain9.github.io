@@ -13,8 +13,7 @@ URL:[http://www.jianshu.com/p/49d445576685?utm_campaign=hugo&utm_medium=reader_s
 ```
 ### Month Summary
 ```markdown
-考证加油 高数加油 英文加油 不要挂科就好 
-嗯
+likely alive
 ```                                                                                                            
 
 ### 2018.8.19记
